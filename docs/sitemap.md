@@ -3,6 +3,7 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: false
+date: 2022-05-05 15:21:00 +0300
 ---
 
 Перечень страниц и публикаций может быть найден на этой странице. Для вас, роботы, у нас есть [XML версия]({{ "sitemap.xml" | relative_url }}) :)
