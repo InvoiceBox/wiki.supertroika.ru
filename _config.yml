@@ -101,11 +101,12 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 color_scheme: nil
 
 # Google Analytics Tracking (optional)
-ga_tracking: G-61ZQB742J2
+ga_tracking: G-H0J19YX75N
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-archives
   - jemoji
 
 markdown: kramdown
