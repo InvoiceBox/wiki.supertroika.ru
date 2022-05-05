@@ -9,12 +9,12 @@ author_profile: false
 
 <h2>Страницы</h2>
 {% for post in site.pages %}
-  {% include post.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <h2>Публикации</h2>
 {% for post in site.posts %}
-  {% include post.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
 {% capture written_label %}'None'{% endcapture %}
@@ -29,7 +29,7 @@ author_profile: false
 {% endunless %}
 {% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
-  {% include post.html %}
+  {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
 {% endfor %}
