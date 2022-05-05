@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Карта сайта"
+nav_exclude: true
 permalink: /sitemap/
 author_profile: false
 date: 2022-05-05 15:21:00 +0300
