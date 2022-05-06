@@ -1,5 +1,5 @@
 ---
 permalink: /
 hidden: true
-redirect_to: /docs/definition/
+redirect_to: /troika/definition/
 ---
