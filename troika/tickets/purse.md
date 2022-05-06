@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 2
+nav_order: 3
 title: "Кошелёк"
 parent: "Тарифы и билеты 2022"
 date: 2022-05-05 15:21:00 +0300
