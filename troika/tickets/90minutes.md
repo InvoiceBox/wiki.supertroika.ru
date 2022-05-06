@@ -32,3 +32,4 @@ date: 2022-05-06 11:21:00 +0300
 
 - [Пополнить билет Кошелёк онлайн](https://supertroika.ru/tariffs/2231)
 - [Пополнить в приложении «Супер Тройка»](/troika/apps/)
+- [Пополнить через Telegram](https://t.me/SuperTroikaBot/)

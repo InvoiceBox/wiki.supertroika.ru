@@ -42,3 +42,4 @@ date: 2022-05-06 12:21:00 +0300
 
 - [Купить билет ТАТ А-Б онлайн](https://supertroika.ru/tariffs)
 - [Купить в приложении «Супер Тройка»](/troika/apps/)
+- [Купить билет через Telegram](https://t.me/SuperTroikaBot/)
