@@ -53,14 +53,14 @@ Apple Pay. Надеемся в скором времени компания Appl
 Файл APK - это файл установки самого приложения, его необходимо скачивать, если по каким-либо причинам вы не можете
 скачать приложение в магазине производителя (Google Play, App Gallery или Galaxy Store).
 
-**Приложение «Супер Тройка»:**
+**Приложение «Супер Тройка»**
 
 - Доступно в [Google Play](https://play.google.com/store/apps/details?id=ru.invoicebox.troika.individual)
 - Откройте в [Huawei App Gallery](https://appgallery.huawei.com/app/C105775123)
 - Скачайте в [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/ru.invoicebox.troika.individual)
 - Скачайте [Файл APK](https://typewriter.invbox.ru/uploads/troika_personal_1742e2ea45.apk?updated_at=2022-05-06T00:00:00.581Z)
 
-**Приложение «Тройка Бизнес»:**
+**Приложение «Тройка Бизнес»**
 
 - Доступно в [Google Play](https://play.google.com/store/apps/details?id=ru.invoicebox.troika)
 - Откройте в [Huawei App Gallery](https://appgallery.huawei.com/app/C104732697)
