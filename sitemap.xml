@@ -1,24 +1,21 @@
 ---
 layout: none
-date: 2022-05-05 15:21:00 +0300
+date: 2022-05-06 15:21:00 +0300
 ---
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-
-<!-- blog posts -->
 {% for post in site.posts %}
     <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
-        <lastmod>{{ post.date }}</lastmod>
+        <changefreq>daily</changefreq>
+        <!-- lastmod>{{ post.date }}</lastmod -->
     </url>
 {% endfor %}
-
-<!-- pages -->
 {% for page in site.pages %}
     <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
-        <lastmod>{{ page.date }}</lastmod>
+        <changefreq>daily</changefreq>
+        <!-- lastmod>{{ page.date }}</lastmod -->
     </url>
 {% endfor %}
-
 </urlset>
