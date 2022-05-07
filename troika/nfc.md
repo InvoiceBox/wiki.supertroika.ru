@@ -2,6 +2,7 @@
 layout: default
 nav_order: 7
 title: "Всё об NFC"
+description: "Информация о технологии NFC в карте Тройка"
 date: 2022-05-05 20:25:00 +0300
 ---
 

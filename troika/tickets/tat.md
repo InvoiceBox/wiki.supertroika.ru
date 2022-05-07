@@ -2,6 +2,7 @@
 layout: default
 nav_order: 2
 title: "ТАТ"
+description: "Вся информация о билете Тройка - ТАТ"
 parent: "Тарифы и билеты 2022"
 date: 2022-05-06 12:21:00 +0300
 ---

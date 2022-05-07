@@ -2,6 +2,7 @@
 layout: default
 nav_order: 3
 title: "Тарифы и билеты 2022"
+description: "Вся информация о действующих тарифах и билетах Тройка 2022"
 has_children: true
 date: 2022-05-06 12:13:00 +0300
 ---

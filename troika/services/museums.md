@@ -2,6 +2,7 @@
 layout: default
 nav_order: 4
 title: "Музеи"
+description: "Проход в городские музеи по карте Тройка"
 parent: "Все услуги Тройки"
 date: 2022-05-05 21:21:00 +0300
 ---

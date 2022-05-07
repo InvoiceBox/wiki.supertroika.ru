@@ -2,6 +2,7 @@
 layout: default
 nav_order: 5
 title: "Все услуги Тройки"
+description: "Какие услуги можно оплатить картой Тройка"
 has_children: true
 date: 2022-05-05 21:21:00 +0300
 ---
