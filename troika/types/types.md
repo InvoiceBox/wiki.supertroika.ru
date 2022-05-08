@@ -3,6 +3,7 @@ layout: default
 nav_order: 2
 title: "Виды и типы Тройки"
 description: "Все разновидности карт Тройка"
+has_children: true
 date: 2022-05-08 10:21:00 +0300
 ---
 
