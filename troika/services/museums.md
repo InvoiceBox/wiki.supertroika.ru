@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 5
 title: "Музеи"
 description: "Проход в городские музеи по карте Тройка"
 parent: "Все услуги Тройки"

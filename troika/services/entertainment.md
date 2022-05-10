@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 4
 title: "Развлечения"
 description: "Проход в городские центры развлечений по карте Тройка"
 parent: "Все услуги Тройки"
