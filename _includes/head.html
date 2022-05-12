@@ -57,6 +57,32 @@
 
   {% include head_custom.html %}
 
-  <style type="text/css">.promo, .promo a, .promo a:active, .promo a:hover, .promo a:link{text-decoration:none;border:0px}</style>
+  <style type="text/css">
+    .promo, .promo a, .promo a:active, .promo a:hover, .promo a:link {
+      text-decoration:none;
+      border:0px
+    }
+
+    /* Firefox */
+    * {
+      scrollbar-width: auto;
+      scrollbar-color: #942a2a #ffffff;
+    }
+
+    /* Chrome, Edge, and Safari */
+    *::-webkit-scrollbar {
+      width: 10px;
+    }
+
+    *::-webkit-scrollbar-track {
+      background: #ffffff;
+    }
+
+    *::-webkit-scrollbar-thumb {
+      background-color: #942a2a;
+      border-radius: 10px;
+      border: 3px solid #ffffff;
+    }
+   </style>
 
 </head>
