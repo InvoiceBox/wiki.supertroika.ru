@@ -20,8 +20,8 @@ date: 2025-06-06 11:21:00 +0300
 
 С помощью «Супер Тройка» вы сможете:
 
-- :white_check_mark: приобретать проездные билеты и абонементы на общественный транспорт [Единый](/troika/tickets/single/), [МЦД](/troika/tickets/single/)], [ТАТ](/troika/tickets/tat/), [Кошелёк](/troika/tickets/purse/) или [Автобус](/troika/tickets/tat/);
-- :white_check_mark: пополнять баланс билета [Кошелёк](/troika/tickets/purse/) для прохода в музеи и другие интересные места;
+- :white_check_mark: приобретать проездные билеты и абонементы на общественный транспорт [Единый](/troika/tickets/single/), [МЦД](/troika/tickets/single/), [ТАТ](/troika/tickets/tat/), [Кошелёк](/troika/tickets/purse/) или [Автобус](/troika/tickets/tat/);
+- :white_check_mark: пополнять баланс билета [Кошелёк](/troika/tickets/purse/) для прохода в музеи, аренды велосипедов и другие интересные места;
 - :white_check_mark: никакой комиссии, комиссия **0%**;
 - :white_check_mark: проверить баланс Тройки, проверить Тройку, номер Тройки
 - :white_check_mark: найти ближайший терминал для записи билета в удобном для вас месте (если ваш телефон не поддерживает «Тройку»);
