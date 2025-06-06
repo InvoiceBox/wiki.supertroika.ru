@@ -3,7 +3,7 @@ layout: default
 nav_order: 6
 title: "Мобильное приложение"
 description: "Скачайте мобильное приложение для работы с картой Тройка"
-date: 2022-05-07 08:21:00 +0300
+date: 2025-06-06 11:21:00 +0300
 ---
 
 ## Мобильное приложение для карты Тройка
@@ -29,7 +29,7 @@ date: 2022-05-07 08:21:00 +0300
 
 ### Требования к устройству для установки «Тройки»
 
-Для установки приложения «Супер Тройка» вам достаточно иметь устройство на базе ОС Android версии 5 и выше,
+Для установки приложения «Супер Тройка» вам достаточно иметь устройство на базе ОС Android версии 6 и выше,
 устройство должно быть подключено к сети Интернет через мобильную сеть или WiFi. Для работы с «Тройкой»,
 смартфон должен поддерживать технологию [NFC Mifare](/troika/nfc/).
 
@@ -52,18 +52,22 @@ Apple Pay. Надеемся в скором времени компания Appl
 
 Приложения «Супер Тройка» и «Тройка Бизнес» доступны в магазинах различных производителей, а также в виде файла APK.
 Файл APK - это файл установки самого приложения, его необходимо скачивать, если по каким-либо причинам вы не можете
-скачать приложение в магазине производителя (Google Play, App Gallery или Galaxy Store).
+скачать приложение в магазине производителя (RuStore, NashStore, Google Play, App Gallery или Galaxy Store).
 
 **Приложение «Супер Тройка»**
 
-- Доступно в [Google Play](https://play.google.com/store/apps/details?id=ru.invoicebox.troika.individual)
+- Скачайте в [RuStore](https://rustore.ru/catalog/app/ru.invoicebox.troika.individual)
+- Скачайте в [NashStore](https://store.nashstore.ru/store/627a2e794891a55fa0378a89)
 - Откройте в [Huawei App Gallery](https://appgallery.huawei.com/app/C105775123)
 - Скачайте в [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/ru.invoicebox.troika.individual)
-- Скачайте [Файл APK](https://typewriter.invbox.ru/uploads/troika_personal_1742e2ea45.apk?updated_at=2022-05-06T00:00:00.581Z)
+- Доступно в [Google Play](https://play.google.com/store/apps/details?id=ru.invoicebox.troika.individual)
+- Скачайте [Файл APK](https://typewriter.invbox.ru/uploads/troika_personal_1742e2ea45.apk?updated_at=2025-06-06T00:00:00.581Z)
 
 **Приложение «Тройка Бизнес»**
 
-- Доступно в [Google Play](https://play.google.com/store/apps/details?id=ru.invoicebox.troika)
+- Скачайте в [RuStore](https://rustore.ru/catalog/app/ru.invoicebox.troika)
+- Скачайте в [NashStore](https://store.nashstore.ru/store/627a2ca24891a55fa0378a0b)
 - Откройте в [Huawei App Gallery](https://appgallery.huawei.com/app/C104732697)
 - Скачайте в [Samsung Galaxy Store](https://galaxystore.samsung.com/detail/ru.invoicebox.troika)
-- Скачайте [Файл APK](https://typewriter.invbox.ru/uploads/troika_company_a8c5b836dd.apk?updated_at=2022-05-06T10:05:21.996Z)
+- Доступно в [Google Play](https://play.google.com/store/apps/details?id=ru.invoicebox.troika)
+- Скачайте [Файл APK](https://typewriter.invbox.ru/uploads/troika_company_a8c5b836dd.apk?updated_at=2025-06-06T10:05:21.996Z)
